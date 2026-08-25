@@ -1,0 +1,31 @@
+Meadowbrook Community Hospital
+PROGRESS NOTE - HOSPITAL DAY 2
+
+Date: 08/04/2026
+Patient: Maria Delgado
+MRN: MRN-2025-0187
+Attending: Dr. Kevin Alabi, Internal Medicine
+
+SUBJECTIVE:
+Slept better overnight. Reports feeling noticeably improved. Fever broke this
+morning; last temp 99.2 F. Productive cough now clearing yellow sputum. Pain much
+less with breathing.
+
+OBJECTIVE:
+Vital Signs:
+- BP: 122/76 mmHg
+- HR: 88 bpm
+- Temp: 99.2 F
+- RR: 18 breaths/min
+- SpO2: 95% on 2L NC (weaning trial room air: 92%)
+
+Labs: WBC 11.8 (down from 15.2), CRP 96 (down from 182) - appropriate response.
+Blood cultures: No growth at 48 hours (final negative).
+
+ASSESSMENT/PLAN:
+1. CAP - responding to therapy; continue IV antibiotics today
+   - Transition plan: oral levofloxacin 750 mg daily once afebrile x24h
+2. Wean oxygen as tolerated; target room air by tomorrow morning
+3. Ambulating in hall 3x today with nursing
+
+Expect discharge eligibility tomorrow evening or next morning if trajectory holds.

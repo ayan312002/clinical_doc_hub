@@ -1,0 +1,37 @@
+Meadowbrook Community Hospital
+PROGRESS NOTE - MICU DAY 2
+
+Date: 08/17/2026
+Patient: Dorothy Whitfield
+MRN: MRN-2025-0391
+Attending: Dr. Elena Vasquez, Pulmonology/Critical Care
+
+SUBJECTIVE:
+Much improved overnight. Off BiPAP for morning trial with toleration. Speaking in
+short sentences, states she "can breathe again." Afebrile since midnight. Family
+meeting held - goals of care reviewed; patient wishes full support short of
+prolonged ventilation, consistent with documented preferences.
+
+OBJECTIVE:
+Vital Signs:
+- BP: 126/76 mmHg
+- HR: 92 bpm
+- Temp: 98.9 F
+- RR: 18 breaths/min
+- SpO2: 92% on 2L NC
+
+ABG on 2L NC (06:00): pH 7.34, pCO2 58, pO2 62 - compensated, acceptable baseline+
+Labs: WBC 10.9 (down from 12.8), lactate cleared to 1.4, K+ repleted to 4.0
+Sputum culture: H. influenzae, pan-sensitive - de-escalated to amoxicillin-clavulanate
+
+ASSESSMENT/PLAN:
+1. Hypercapnic respiratory failure - resolving on non-invasive support
+   - Remain off BiPAP if ABG stable on repeat; high-flow nasal cannula bridge PRN
+   - Continue steroid taper plan: IV today, transition to prednisone 40mg PO x5d
+2. CAP due to H. influenzae - complete 7-day amoxicillin-clavulanate course
+3. COPD maintenance reconstruction: tiotropium restarted today (lapse addressed -
+   will enroll in medication delivery program before discharge)
+4. Transfer to medical floor this afternoon if stable; anticipate discharge in
+   3-4 days with home oxygen re-evaluation
+
+Respiratory therapy weaning protocol in effect.

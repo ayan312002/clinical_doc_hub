@@ -1,0 +1,45 @@
+St. Mary's Medical Center
+PROGRESS NOTES
+
+Date: 01/08/2026
+Patient: Margaret Thompson
+MRN: MRN-2024-0847
+Attending: Dr. James Chen
+
+SUBJECTIVE:
+Patient reports feeling much better today. Dyspnea has improved significantly. She is able to walk to the bathroom without oxygen desaturation. Denies chest pain, palpitations, or syncope. Reports decreased appetite but tolerating clear liquids. Last BM was today, normal. denies nausea or vomiting.
+
+OBJECTIVE:
+Vital Signs:
+- BP: 132/80 mmHg
+- HR: 68 bpm, regular
+- RR: 16 breaths/min
+- Temp: 98.2°F
+- SpO2: 97% on 2L NC
+- Weight: 164 lbs (down 4 lbs from yesterday)
+
+General: Alert, oriented x4, in no acute distress
+HEENT: PERRL, mucous membranes moist
+Neck: No JVD, no thyromegaly
+Cardiovascular: RRR, no murmurs, gallops, or rubs
+Pulmonary: Decreased crackles at bases, improved from admission
+Abdomen: Soft, non-tender, normoactive bowel sounds
+Extremities: 1+ pitting edema bilaterally (improved from 3+)
+
+ASSESSMENT/PLAN:
+1. CHF exacerbation - improving with diuresis
+   - Continue IV furosemide, transition to oral when ready
+   - Continue fluid restriction to 1.5L/day
+   - Daily weights, I&Os
+   - Recheck BNP tomorrow
+
+2. Type 2 Diabetes - glucose trending down
+   - Continue home metformin
+   - Blood glucose monitoring QID
+   - Endocrinology follow-up recommended post-discharge
+
+3. Hypertension - well controlled
+   - Continue home antihypertensives
+
+Anticipate discharge tomorrow if current trajectory continues.
+Will discuss discharge medications and follow-up plan with patient.

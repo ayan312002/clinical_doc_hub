@@ -1,0 +1,43 @@
+Valley Health Clinic
+FOLLOW-UP VISIT NOTE
+
+Date: 01/24/2026
+Patient: Emily Johnson
+MRN: MRN-2024-1567
+Provider: Dr. Sarah Williams, MD
+
+SUBJECTIVE:
+Follow-up from 01/12 visit. Returns with lab results. Reports improved energy
+levels since last visit. Headaches have decreased in frequency (now 2-3 per week
+vs daily). Started sleep hygiene practices - now averaging 7 hours per night.
+Reduced coffee to 2 cups daily.
+
+OBJECTIVE:
+Vital Signs:
+- BP: 115/70 mmHg
+- HR: 72 bpm
+- Weight: 134 lbs
+
+General: Well-appearing, no acute distress
+
+Lab Results Review:
+- CBC: WBC 7.2 (normal), Hgb 12.8 (improved from previous 10.1), Hct 38.2%
+- Iron studies: Ferritin 45 ng/mL (improved from 12), TIBC 350 mcg/dL, Iron sat 22%
+- TSH: 2.1 mIU/L (normal)
+- CMP: All within normal limits
+- Glucose: 88 mg/dL (normal)
+
+ASSESSMENT:
+1. Iron deficiency anemia - resolved with supplementation
+2. Tension headaches - improved with sleep hygiene and stress management
+3. Anxiety disorder - stable on sertraline
+
+PLAN:
+1. Discontinue iron supplement (iron stores replete)
+2. Continue sertraline 50 mg daily
+3. Continue sleep hygiene practices
+4. Headache diary recommended
+5. Return in 3 months for routine follow-up
+6. Neurology referral if headache pattern changes
+
+Patient verbalized understanding. Questions answered.

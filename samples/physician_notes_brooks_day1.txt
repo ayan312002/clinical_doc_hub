@@ -1,0 +1,40 @@
+St. Mary's Medical Center
+PROGRESS NOTE - ICU DAY 1
+
+Date: 07/29/2026
+Patient: Harold Brooks
+MRN: MRN-2025-0112
+Attending: Dr. Priya Raman, Critical Care
+
+SUBJECTIVE:
+Patient admitted to MICU with urosepsis and septic shock. Overnight received 2.5L
+crystalloid, norepinephrine started at 04:00 for refractory hypotension (MAP <60).
+Daughter provides history; patient remains confused but follows simple commands.
+
+OBJECTIVE:
+Vital Signs:
+- BP: 98/58 mmHg on norepinephrine 6 mcg/min
+- HR: 96 bpm (afib rate-controlled)
+- Temp: 100.4 F, downtrending
+- RR: 20 breaths/min
+- SpO2: 96% on 2L NC
+
+Urine output: 45 mL/hr after Foley placement (retention relieved, drained 900 mL)
+
+Repeat Labs (07/29 05:00):
+- Lactate 2.8 (was 4.2) - clearing
+- WBC 16.2 (was 19.8)
+- Creatinine 2.5 - AKI peak not yet reached
+- Blood cultures x2: Gram-positive cocci flagged at 14 hrs - STAT ID and
+  sensitivities pending; vancomycin levels being followed
+
+ASSESSMENT/PLAN:
+1. Septic shock, urinary source - on sepsis bundle
+   - Norepinephrine titration, wean as lactate clears
+   - Piperacillin-tazobactam 3.375g IV q6h + vancomycin (load per protocol)
+   - Escalation decision pending culture speciation
+2. Acute kidney injury on CKD 3a - avoid nephrotoxins, hold ACEi
+3. Afib - apixaban held 48h given AKI trend; cardiology aware
+4. Delirium secondary to sepsis - reorientation, sleep protocol
+
+Prognosis guarded. Family updated at bedside this morning.

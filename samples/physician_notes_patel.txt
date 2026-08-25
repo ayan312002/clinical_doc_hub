@@ -1,0 +1,48 @@
+Valley Health Clinic
+PROGRESS NOTE
+
+Date: 08/10/2026
+Patient: Samuel Patel
+MRN: MRN-2025-0298
+Provider: Dr. Sarah Williams, MD
+
+SUBJECTIVE:
+63-year-old male with poorly controlled type 2 diabetes presenting after extended
+lapse in care. Confirms stopping metformin due to cost barrier and inconsistent
+use of antihypertensives. Polydipsia and nocturnal polyuria prominent. Vision
+blurry late in day, worse over past 6 weeks. No chest pain, no foot wounds,
+no hypoglycemic events.
+
+OBJECTIVE:
+Vital Signs: BP 154/90, HR 78, SpO2 98%, Weight 214 lbs, BMI 31.6
+Point-of-care glucose: 312 mg/dL
+Monofilament foot exam: intact sensation, no deformity, pulses 2+
+
+Labs reviewed (drawn today):
+- A1c 10.8%, fasting glucose 342
+- eGFR 51 (down from baseline), urine ACR 118
+- LDL 138, HDL 34, triglycerides 232
+
+ASSESSMENT:
+1. Type 2 diabetes mellitus, severely uncontrolled (A1c 10.8%) with early diabetic
+   nephropathy
+2. Hypertension, above goal
+3. Dyslipidemia, below target
+4. CKD stage 3a - new staging based on today's eGFR
+5. Medication non-adherence driven by cost - social determinant barrier identified
+
+PLAN:
+1. Restart metformin 500 mg PO BID (renally acceptable at eGFR 51; do not titrate
+   higher without nephrology input)
+2. Initiate basal insulin glargine 10 units SC nightly; teach injection technique
+   today with nurse educator; hypoglycemia precautions reviewed
+3. Add empagliflozin 10 mg PO daily - renal and cardioprotective benefit
+4. Resume lisinopril 20 mg daily and atorvastatin 20 mg nightly; enrolled in $4
+   generic program to remove cost barrier
+5. Diabetic retinopathy screening - ophthalmology referral placed (blurry vision)
+6. Nutrition referral; carbohydrate portion counseling emphasized
+7. Repeat BMP in 2 weeks to reassess renal function on new agents
+8. Return sooner if glucose >400, symptoms of dehydration, or any foot wound
+
+Patient motivated after reviewing numbers together. Wife included in education.
+Follow-up appointment scheduled 08/24/2026.

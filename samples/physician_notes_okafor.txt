@@ -1,0 +1,48 @@
+Valley Health Clinic
+PROGRESS NOTE - PREVENTIVE VISIT
+
+Date: 07/14/2026
+Patient: Grace Okafor
+MRN: MRN-2025-0246
+Provider: Dr. Sarah Williams, MD
+
+SUBJECTIVE:
+41-year-old female presenting for annual physical. Describes 3 months of mild
+fatigue, cold intolerance, dry skin, and 5 lb weight gain. No depression symptoms
+on screening. Review of systems otherwise negative.
+
+OBJECTIVE:
+Vital Signs: BP 116/74, HR 62, Temp 97.6, SpO2 99%
+BMI 27.1
+
+Physical Exam:
+General: Alert, well-appearing
+Neck: Supple, no thyromegaly or nodules palpable
+Skin: Dry bilateral shins
+Heart: Regular rhythm, no murmur
+Lungs: Clear bilaterally
+Abdomen: Soft, non-tender
+Extremities: No edema; deep tendon reflexes with normal relaxation phase
+
+Labs (same-day draw):
+- TSH 8.9 mIU/L (above range), Free T4 borderline at 0.8
+- Lipids: LDL 121, total cholesterol 208
+- CBC, CMP, HbA1c: Normal; Vitamin D mildly insufficient at 24
+
+ASSESSMENT:
+1. Subclinical hypothyroidism pattern - likely autoimmune given maternal history;
+   TPO antibodies pending
+2. Borderline dyslipidemia, possibly thyroid-mediated
+3. Vitamin D insufficiency
+
+PLAN:
+1. Start levothyroxine 50 mcg PO daily on empty stomach, 30 min before breakfast
+2. TPO antibody lab added today
+3. Repeat TSH/free T4 in 6 weeks; adjust dose to target
+4. Vitamin D 2000 IU daily
+5. Lifestyle counseling on lipid management; recheck lipids after thyroid
+   optimization before considering statin discussion
+6. Routine preventive screenings up to date; colonoscopy planning at age 52 given
+   paternal history
+
+Patient counseled on levothyroxine administration rules. Agreed with plan.

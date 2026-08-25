@@ -1,0 +1,42 @@
+Valley Health Clinic
+PROGRESS NOTE
+
+Date: 01/13/2026
+Patient: Robert Martinez
+MRN: MRN-2024-1203
+Provider: Dr. Sarah Williams, MD
+
+SUBJECTIVE:
+Returns to review laboratory results obtained 01/10. Confirms ongoing polyuria and
+nocturia. Has cut regular soda to one per day since last visit. Denies polyphagia,
+numbness, or visual changes beyond end-of-day blurring.
+
+OBJECTIVE:
+Vital Signs:
+- BP: 138/86 mmHg
+- HR: 80 bpm
+- Weight: 231 lbs
+
+Lab Review (01/10):
+- HbA1c: 8.2% (elevated)
+- Fasting glucose: 185 mg/dL (elevated)
+- Total cholesterol: 245 mg/dL (elevated); LDL 165; HDL 38; TG 210
+- WBC 12.5 x10^3/uL - mild leukocytosis; urine culture sent, pending
+- TSH: 2.8 mIU/L (normal)
+- Urine microalbumin/creatinine ratio: 42 mcg/mg (elevated)
+
+ASSESSMENT:
+1. Type 2 diabetes mellitus, newly diagnosed, with early nephropathy signal
+2. Dyslipidemia
+3. Stage 1 hypertension
+4. Mild leukocytosis - possible early urinary tract infection, culture pending
+
+PLAN:
+1. Start metformin 500 mg PO BID, titrate over 4 weeks
+2. Start atorvastatin 20 mg PO nightly
+3. Repeat urinalysis/culture follow-up call in 48 hours
+4. Diabetes self-management education referral placed
+5. Recheck BMP and A1c in 3 months; annual eye exam referral
+6. Home BP log requested
+
+Patient verbalized understanding and agreed with plan.
