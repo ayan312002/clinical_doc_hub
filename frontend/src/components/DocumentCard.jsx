@@ -58,7 +58,7 @@ export default function DocumentCard({ doc }) {
         <p className="text-xs text-gray-400 mt-2">MRN: {doc.patient_mrn}</p>
       )}
       <p className="text-xs text-gray-400 mt-1">
-        {doc.created_at ? new Date(doc.created_at).toLocaleString() : ''}
+        {doc.created_at ? new Date(doc.created_at + 'Z').toLocaleString() : ''}
       </p>
     </Link>
   )

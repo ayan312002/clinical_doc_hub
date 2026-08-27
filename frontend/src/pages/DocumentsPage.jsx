@@ -23,6 +23,15 @@ export default function DocumentsPage() {
 
   useEffect(() => { fetchDocs() }, [filters])
 
+  useEffect(() => {
+    const interval = setInterval(() => {
+      listDocuments(filters)
+        .then(setDocuments)
+        .catch(console.error)
+    }, 10000)
+    return () => clearInterval(interval)
+  }, [filters])
+
   return (
     <div className="space-y-6">
       <div className="flex items-center justify-between">

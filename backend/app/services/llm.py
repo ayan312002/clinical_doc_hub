@@ -43,7 +43,7 @@ async def call_llm(
         payload["response_format"] = {"type": response_format}
 
     headers = {
-        "Authorization": f"Bearer {settings.OPENROUTER_API_KEY}",
+        "Authorization": f"Bearer {settings.LLM_API_KEY}",
         "Content-Type": "application/json",
         "HTTP-Referer": "https://clinical-doc-hub.local",
         "X-Title": "Clinical Document Intelligence Hub",
@@ -52,7 +52,7 @@ async def call_llm(
     async with httpx.AsyncClient(timeout=120.0) as client:
         try:
             resp = await client.post(
-                f"{settings.OPENROUTER_BASE_URL}/chat/completions",
+                f"{settings.LLM_BASE_URL}/chat/completions",
                 headers=headers,
                 json=payload,
             )

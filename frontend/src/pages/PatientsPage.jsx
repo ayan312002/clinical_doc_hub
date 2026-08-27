@@ -62,7 +62,7 @@ export default function PatientsPage() {
                 {p.dob && <span>DOB: {p.dob}</span>}
               </div>
               <p className="text-xs text-gray-400 mt-3">
-                Updated: {p.updated_at ? new Date(p.updated_at).toLocaleDateString() : ''}
+                Updated: {p.updated_at ? new Date(p.updated_at + 'Z').toLocaleDateString() : ''}
               </p>
             </div>
           ))}

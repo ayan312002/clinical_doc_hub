@@ -12,7 +12,7 @@ export default function UploadPage() {
         </p>
       </div>
       <FileUpload onUploadComplete={(res) => {
-        setTimeout(() => navigate(`/documents/${res.document_id}`), 1500)
+        navigate(`/documents/${res.document_id}`)
       }} />
     </div>
   )

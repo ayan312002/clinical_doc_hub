@@ -169,10 +169,6 @@ export default function DocumentDetail({ doc }) {
           <div>
             <h2 className="text-xl font-bold text-gray-900">{doc.filename}</h2>
             <div className="flex items-center gap-3 mt-2 text-sm text-gray-500">
-              <span className="flex items-center gap-1">
-                <StatusIcon className={`h-4 w-4 ${status.color} ${status.spin ? 'animate-spin' : ''}`} />
-                {status.label}
-              </span>
               {doc.triage_level && (
                 <span className={`px-2 py-0.5 rounded-full text-xs font-medium ${triageColors[doc.triage_level]}`}>
                   {doc.triage_level.toUpperCase()}

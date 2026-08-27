@@ -192,6 +192,46 @@ async def reprocess_document(
     )
 
 
+@router.post("/{document_id}/process", response_model=UploadResponse)
+async def process_document_endpoint(
+    document_id: str,
+    background_tasks: BackgroundTasks,
+    db: AsyncSession = Depends(get_db),
+):
+    result = await db.execute(
+        select(Document)
+        .where(Document.id == document_id)
+        .options(selectinload(Document.extraction))
+    )
+    doc = result.scalar_one_or_none()
+    if not doc:
+        raise HTTPException(status_code=404, detail="Document not found")
+
+    if doc.status == "processing":
+        return UploadResponse(
+            document_id=doc.id,
+            filename=doc.filename,
+            status=doc.status,
+            message="Document is already being processed",
+        )
+
+    if doc.extraction:
+        await db.delete(doc.extraction)
+        await db.commit()
+
+    doc.status = "uploaded"
+    await db.commit()
+
+    background_tasks.add_task(process_document, db, doc.id)
+
+    return UploadResponse(
+        document_id=doc.id,
+        filename=doc.filename,
+        status="uploaded",
+        message="Processing started",
+    )
+
+
 @router.get("/{document_id}/file")
 async def get_document_file(document_id: str, db: AsyncSession = Depends(get_db)):
     result = await db.execute(select(Document).where(Document.id == document_id))

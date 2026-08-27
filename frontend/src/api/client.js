@@ -42,6 +42,12 @@ export async function reprocessDocument(id) {
   return res.json()
 }
 
+export async function processDocument(id) {
+  const res = await fetch(`${API_BASE}/documents/${id}/process`, { method: 'POST' })
+  if (!res.ok) throw new Error('Process failed')
+  return res.json()
+}
+
 export async function searchDocuments(query) {
   const res = await fetch(`${API_BASE}/search?q=${encodeURIComponent(query)}`)
   if (!res.ok) throw new Error('Search failed')

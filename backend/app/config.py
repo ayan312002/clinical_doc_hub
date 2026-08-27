@@ -4,8 +4,8 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    OPENROUTER_API_KEY: str = ""
-    OPENROUTER_BASE_URL: str = "https://openrouter.ai/api/v1"
+    LLM_API_KEY: str = ""
+    LLM_BASE_URL: str = "https://openrouter.ai/api/v1"
     LLM_MODEL: str = "openrouter/free"
     LLM_MAX_TOKENS: int = 4096
     LLM_TEMPERATURE: float = 0.1
@@ -16,7 +16,6 @@ class Settings(BaseSettings):
     CORS_ORIGINS: list[str] = ["http://localhost:3000", "http://localhost:5173"]
 
     model_config = {"env_file": ".env", "env_file_encoding": "utf-8"}
-
 
 settings = Settings()
 

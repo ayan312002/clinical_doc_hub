@@ -14,6 +14,20 @@ export default function DetailPage() {
     getDocument(id).then(setDoc).finally(() => setLoading(false))
   }, [id])
 
+  useEffect(() => {
+    if (!doc) return
+    if (doc.status !== 'uploaded' && doc.status !== 'processing') return
+
+    const interval = setInterval(async () => {
+      try {
+        const updated = await getDocument(id)
+        setDoc(updated)
+      } catch {}
+    }, 10000)
+
+    return () => clearInterval(interval)
+  }, [id, doc?.status])
+
   const handleDelete = async () => {
     if (!confirm('Delete this document?')) return
     await deleteDocument(id)
@@ -22,7 +36,8 @@ export default function DetailPage() {
 
   const handleReprocess = async () => {
     await reprocessDocument(id)
-    setTimeout(() => getDocument(id).then(setDoc), 2000)
+    const updated = await getDocument(id)
+    setDoc(updated)
   }
 
   if (loading) {
