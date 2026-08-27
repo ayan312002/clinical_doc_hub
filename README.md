@@ -83,10 +83,3 @@ Run `python scripts/generate_samples.py` to create synthetic clinical documents 
 - No authentication/authorization (prototype only)
 - No HIPAA compliance measures (prototype only)
 
-## Future Improvements
-- Add user authentication and role-based access
-- Implement HIPAA-compliant audit logging
-- Add batch processing for bulk document ingestion
-- Integrate with EHR systems via HL7 FHIR
-- Add document comparison and trend analysis
-- Implement feedback loop to improve extraction accuracy
