@@ -1,0 +1,51 @@
+Pediatric Care Associates of Springfield
+PROGRESS NOTE
+
+Date: 08/18/2026
+Patient: Ava Simmons
+MRN: MRN-2025-0334
+Provider: Dr. Miguel Santos, MD (Pediatrics)
+Guardian Present: Megan Simmons (Mother)
+
+SUBJECTIVE:
+8-year-old with mild persistent asthma, non-adherent to controller since June,
+presenting after viral URI with 4 nights of wheeze and nocturnal cough. Albuterol
+providing only 3-hour relief intervals. Received one nebulized albuterol with
+ipratropium treatment at check-in with good response. No fever. Peanut allergy
+with autoinjector - guardian confirms device current and accessible.
+
+OBJECTIVE:
+Vitals: HR 96 (post-treatment), RR 20, SpO2 97% room air, Temp 98.9 F
+Peak flow repeat: 82% of personal best (up from 65% pre-treatment)
+
+Exam:
+General: Interactive, playful, speaking full sentences
+Lungs: Improved aeration, faint expiratory wheeze right mid-field, no retractions,
+accessory muscle use absent
+ENT/Nose: Minimal clear rhinorrhea, turbinates pale
+Rest of exam: Unremarkable
+
+Labs: CBC with eosinophils 520 (allergic phenotype marker), specific IgE panel
+positive for dust mite/cat/Alternaria; peanut Class 4 confirming known allergy.
+
+ASSESSMENT:
+1. Acute mild-moderate asthma exacerbation on background of controller
+   non-adherence, triggered by viral URI plus environmental exposures
+2. Allergic rhinitis with multiple environmental sensitivities
+3. Peanut anaphylaxis history - action plan verified current
+
+PLAN:
+1. Resume fluticasone 44 mcg 2 puffs BID with spacer - adherence importance
+   discussed extensively with guardian and child (child chose sticker chart system)
+2. Albuterol PRN q4h for next 48 hours, then PRN only; return if needing it more
+   than 2x/day after 48h
+3. Oral prednisolone 15 mg daily x 3 days burst provided
+4. Asthma action plan updated and printed - green/yellow/red zones reviewed;
+   copy for school nurse faxed
+5. Environmental controls: allergen-proof pillow/mattress covers, HEPA filter in
+   bedroom, honest discussion of cat exposure impact with family
+6. Allergy/immunology referral placed for sensitization management
+7. Follow-up in 2 weeks to confirm controller adherence and symptom scores
+
+Guardian verbalized understanding of all medication changes. Child cooperative
+throughout visit. Return precautions clearly stated.

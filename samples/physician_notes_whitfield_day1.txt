@@ -1,0 +1,41 @@
+Meadowbrook Community Hospital
+PROGRESS NOTE - MICU DAY 1
+
+Date: 08/16/2026
+Patient: Dorothy Whitfield
+MRN: MRN-2025-0391
+Attending: Dr. Elena Vasquez, Pulmonology/Critical Care
+
+SUBJECTIVE:
+71-year-old female with severe COPD (GOLD stage III, home O2 1L nocturnal) brought
+by EMS after 3 days of worsening dyspnea and productive green sputum; found by
+neighbor somnolent this evening. In ED, developed CO2 narcosis pattern - drowsy,
+asterixis present. Started on BiPAP 12/6 with rapid mental status improvement.
+Family reports she ran out of her tiotropium 5 weeks ago and did not refill.
+
+OBJECTIVE:
+Vital Signs:
+- BP: 138/82 mmHg
+- HR: 108 bpm
+- Temp: 100.8 F
+- RR: 26 -> 20 breaths/min on BiPAP
+- SpO2: 88% -> 94% on BiPAP, FiO2 40%
+
+Repeat ABG on BiPAP (01:30): pH 7.29, pCO2 68, pO2 68 - improving
+Chest x-ray: hyperinflation with right lower lobe infiltrate - abnormal
+Sputum culture: sent; empiric coverage started
+
+ASSESSMENT/PLAN:
+1. Acute on chronic hypercapnic respiratory failure secondary to COPD exacerbation
+   with community-acquired pneumonia - admitted to MICU
+   - BiPAP 12/6, titrate FiO2 targeting SpO2 88-92% (permissive hypercapnia)
+   - Methylprednisolone 40mg IV q12h
+   - Ceftriaxone + azithromycin for CAP coverage
+   - Duoneb q4h scheduled
+   - If mental status declines or ABG worsens despite NIV -> intubation discussion;
+     patient has advance directive on file - family meeting planned today
+2. Hypokalemia/hypomagnesemia - repletion protocols started
+3. Theophylline therapeutic - continue home dose
+
+Patient more alert this morning, following commands. Respiratory therapist notes
+good mask tolerance.

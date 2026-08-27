@@ -1,0 +1,38 @@
+Meadowbrook Community Hospital
+PROGRESS NOTE - HOSPITAL DAY 1
+
+Date: 08/03/2026
+Patient: Maria Delgado
+MRN: MRN-2025-0187
+Attending: Dr. Kevin Alabi, Internal Medicine
+
+SUBJECTIVE:
+Overnight received first doses ceftriaxone and azithromycin. Fevers continuing to
+101.0 F. Cough persists, right-sided pain partially controlled with acetaminophen.
+Sleeping with head elevated; still requiring supplemental oxygen.
+
+OBJECTIVE:
+Vital Signs:
+- BP: 118/74 mmHg
+- HR: 102 bpm
+- Temp: 101.0 F
+- RR: 22 breaths/min
+- SpO2: 93% on 3L NC
+
+Lungs: Decreased breath sounds right base with egophony; left clear
+Remainder exam unremarkable
+
+Radiology (formal): Right lower lobe consolidation with small parapneumonic
+effusion - abnormal study consistent with lobar pneumonia.
+
+Blood cultures: No growth at 24 hours.
+
+ASSESSMENT/PLAN:
+1. Community-acquired pneumonia, CURB-65 score 2 (RR >=22, O2 requirement)
+   - Continue ceftriaxone 1g IV q24h + azithromycin 500mg IV q24h
+   - Encourage incentive spirometry, mobilization
+   - Titrate oxygen to SpO2 >=94%
+2. Parapneumonic effusion, small - monitor; thoracic consult only if loculated
+3. Hypertension - hold lisinopril while hypovolemic-febrile
+
+Anticipate clinical improvement window 48-72 hours; will reassess daily.

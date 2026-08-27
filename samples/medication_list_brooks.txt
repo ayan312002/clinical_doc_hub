@@ -1,0 +1,26 @@
+St. Mary's Medical Center
+DISCHARGE MEDICATION LIST
+
+Patient: Harold Brooks
+DOB: 04/30/1948
+MRN: MRN-2025-0112
+Prepared: 08/04/2026 by Pharmacy (K. Doyle, PharmD)
+
+ACTIVE MEDICATIONS AT DISCHARGE:
+1. Cephalexin 500 mg PO QID x 7 days (finish 08/10/2026)
+   - Step-down oral therapy after IV course for ESBL E. coli urosepsis
+2. Tamsulosin 0.4 mg PO daily (resume home medication)
+3. Apixaban 5 mg PO BID (RESUMED 08/02 after AKI improved - renal dosing confirmed)
+4. Atorvastatin 40 mg PO daily (resume home medication)
+
+MEDICATIONS DISCONTINUED:
+- Nitrofurantoin 100 mg PO BID suppressive therapy
+   - STOPPED: inadequate suppression given recurrent resistant organisms;
+     urology to discuss alternative prophylaxis at follow-up
+
+ALLERGY ALERTS ON FILE:
+- Codeine (hives) - avoid codeine and consider caution with other opioids
+
+PHARMACIST COUNSELING:
+- Complete cephalexin course even if symptoms resolve
+- Return precautions reviewed: fever >101, confusion, minimal urination -> ED
